@@ -1,0 +1,20 @@
+body{
+    background-color: #213555;
+    color: #F0F0F0;
+}
+h1{
+    background-color: #4F709C;
+    font-size: 60px;
+    font-weight: 100;
+}
+h2{
+    font-family: 'Trebuchet MS';
+}
+strong{
+    font-family: 'Trebuchet MS';
+}
+a{
+    color: #E5D283;
+    font-size: small;
+    padding: 15px;
+}
