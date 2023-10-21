@@ -1,0 +1,31 @@
+body{
+    background-color: #8ecccc;
+}
+h1{
+    color: #50717b;
+}
+h2{
+    color: #50717b;
+}
+h3{
+    color: #50717b;
+}
+p{
+    color: black;
+}
+ul{
+    color: #3a4042;
+}
+a{
+    color: gray;
+}
+hr{
+    border-color: #50717b;
+}
+pre{
+    color: black;
+}
+button{
+    color: black;
+    background-color: #8ecccc;
+}
